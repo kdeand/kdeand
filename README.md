@@ -1,4 +1,4 @@
-<h1 align="center">˚｡⋆ Dean ⋆｡˚</h1>
+<h1 align="center">Dean</h1>
 <p align="center">Backend Engineer | Sophomore CS Student</p>
 
 <br />
@@ -10,7 +10,7 @@
 
 <br />
 
-> I am a backend-focused developer dedicated to building secure, scalable systems[cite: 1]. Currently, I am deepening my expertise in **Spring Security** and **JWT authentication** while developing real-world applications[cite: 1]. I thrive in a **Linux** environment and value clean, polymorphic code and professional UI design[cite: 1].
+> I am a backend-focused developer dedicated to building secure, scalable systems. Currently, I am deepening my expertise in **Spring Security** and **JWT authentication** while developing real-world applications. I thrive in a **Linux** environment and value clean, polymorphic code and professional UI design.
 
 *   **Focus:** Backend Development (Spring Boot, REST APIs)[cite: 1]
 *   **Current Study:** Authentication Systems (JWT, Spring Security)[cite: 1]
@@ -61,6 +61,4 @@
 
 <br />
 
-<p align="center">
-  <code>// Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away.</code>
-</p>
+
