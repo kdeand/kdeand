@@ -1,9 +1,14 @@
 
-<!-- Typing Header -->
-<p align="center">
-  <img src="https://w.wallhaven.cc/full/vp/wallhaven-vpyekp.jpg" />
-</p>
+## <p align = "center"> 👩‍💻 About Me
 
+
+Bachelor of Computer Science, Major in Software Engineering
+Sophomore
+
+Focused on backend development using Spring Boot and REST APIs
+Currently learning authentication systems (JWT, Spring Security)
+
+Working toward real-world experience and freelance opportunities
 
 ---
 
@@ -17,21 +22,7 @@
 
 ---
 
-## 👩‍💻 About Me
-
-
-Bachelor of Computer Science, Major in Software Engineering
-Sophomore
-
-Focused on backend development using Spring Boot and REST APIs
-Currently learning authentication systems (JWT, Spring Security)
-
-Working toward real-world experience and freelance opportunities
-
-
----
-
-## 🛠️ Tech Stack
+## <p align = "center"> 🛠️ Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,js,html,css,postgres,spring,git,linux" />
@@ -47,15 +38,9 @@ Learning    :: Spring Security | System Design
 
 ---
 
-## 📊 GitHub Stats
+## <p align = "center"> 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kdeand&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdeand&layout=compact&hide_border=true" height="150"/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdeand&layout=compact&hide_border=true" height="150](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=nord&hide_border=true)"/>
-</p>
-
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kdeand&show_icons=true&theme=github_dark&hide_border=true" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdeand&layout=compact&theme=github_dark&hide_border=true" height="150"/> </p>
 ---
 
 
