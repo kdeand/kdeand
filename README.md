@@ -30,7 +30,7 @@
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | `Java` `Python` `SQL` `HTML/CSS/JS` |
+| **Languages** | `Java` `Python` `SQL` `HTML/CSS/JS` `Python`|
 | **Backend** | `Spring Boot` `REST APIs` `JPA / Hibernate` |
 | **Database** | `PostgreSQL` |
 | **Tools** | `Git` `Postman` `Linux Mint` |
