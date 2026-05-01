@@ -1,4 +1,8 @@
-## Hi there 👋
+## Aspiring Backend Engineer
+### Sophomore CS Student Major in Software Engineering
+
+---
+### Technical Skills
 
 <!--
 **kdeand/kdeand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
