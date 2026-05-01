@@ -9,7 +9,8 @@
  ██   ██  ██        ██   ██  ██  ██ ██ 
  ██████   ████████  ██   ██  ██   ████
 
-# Aspiring Backend Engineer
-### Sophomore in Computer Science
-### Status: Learning, Iterating, Building
+Status: Learning, Iterating, Building
+
+```
+# Know Me
 
