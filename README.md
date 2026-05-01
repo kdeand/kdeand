@@ -46,7 +46,7 @@ Learning    :: Spring Security | System Design
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kdeand&show_icons=true&theme=default&hide_border=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdeand&layout=compact&hide_border=true" height="150"/>
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=nord&hide_border=true)
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdeand&layout=compact&hide_border=true" height="150](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=nord&hide_border=true)"/>
 </p>
 
 ---
