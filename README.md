@@ -30,26 +30,14 @@
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | `Java` `Python` `SQL` `HTML/CSS/JS`[cite: 1] |
-| **Backend** | `Spring Boot` `REST APIs` `JPA / Hibernate`[cite: 1] |
-| **Database** | `PostgreSQL`[cite: 1] |
-| **Tools** | `Git` `Postman` `Linux Mint`[cite: 1] |
-| **Learning** | `Spring Security` `System Design`[cite: 1] |
+| **Languages** | `Java` `Python` `SQL` `HTML/CSS/JS` |
+| **Backend** | `Spring Boot` `REST APIs` `JPA / Hibernate` |
+| **Database** | `PostgreSQL` |
+| **Tools** | `Git` `Postman` `Linux Mint` |
+| **Learning** | `Spring Security` `System Design` |
 
 <br />
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kdeand&show_icons=true&theme=nord&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdeand&layout=compact&theme=nord&hide_border=true" height="165"/>
-</p>
-
-<br />
-
----
 
 ## 📫 Contact
 
