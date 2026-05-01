@@ -4,17 +4,12 @@
   <img src="https://w.wallhaven.cc/full/vp/wallhaven-vpyekp.jpg" />
 </p>
 
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&section=header"/>
-</p>
 
 ---
 
+## <p align = "center"> 📫 Contact
 
-## 📫 Contact
-
-<p>
+<p align = "center">
   <a href="https://www.linkedin.com/in/deannadelacruz/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
