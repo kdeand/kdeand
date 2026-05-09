@@ -34,7 +34,7 @@
 | **Backend** | `Spring Boot` `REST APIs` `JPA / Hibernate` |
 | **Database** | `PostgreSQL` |
 | **Tools** | `Git` `Postman` `Linux Mint` |
-| **Learning** | `Spring Security` `System Design` |
+| **Learning** | `Spring Security` `System Design` | `Ego Tripping`
 
 <br />
 
