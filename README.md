@@ -8,6 +8,9 @@
 **Bachelor of Computer Science** | *Major in Software Engineering*
 **Sophomore**
 
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<br><br>
+
 <br />
 
 > I am a backend-focused developer dedicated to building secure, scalable systems. Currently, I am deepening my expertise in **Spring Security** and **JWT authentication** while developing real-world applications. I thrive in a **Linux** environment and value clean, polymorphic code and professional UI design.
