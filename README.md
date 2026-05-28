@@ -1,175 +1,55 @@
-<div id="first-row">
+<h1 align="center">Dean</h1>
+<p align="center">Backend Engineer | Sophomore CS Student</p>
 
-<h1 align="center"><span style="color: #00A6CB">Dean</span></h1>
+<br />
 
-<p align="center">Backend Engineer | ComSci Student</p>
+## 👩‍💻 About Me
 
-<center>
-  <img src="https://media.tenor.com/wW6w4loOLaUAAAAj/fish.gif">
-</center>
+**Bachelor of Computer Science** | *Major in Software Engineering*
+**Sophomore**
 
-<br>
+<center><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"></center>
+<br><br>
 
-<center>
-<span style="color: #00A6CB">
+<br />
 
-∘˙○˚.•∘˙○˚.•∘˙○˚.•∘˙○˚.•∘˙○˚.•∘˙○˚.•∘˙○˚.• 
+> I am a backend-focused developer dedicated to building secure, scalable systems. Currently, I am deepening my expertise in **Spring Security** and **JWT authentication** while developing real-world applications. I thrive in a **Linux** environment and value clean, polymorphic code and professional UI design.
 
-<b>
-><(((º>
-</b>
+*   **Focus:** Backend Development (Spring Boot, REST APIs)
+*   **Current Study:** Authentication Systems (JWT, Spring Security)
+*   **Goal:** Gaining real-world experience and freelance opportunities
 
-</span>
-</center>
+<br />
 
-</div>
+---
 
-<hr>
+## 🛠️ Tech Stack
 
-<center>
-Bachelor of <strong>Computer Science</strong> | Major in <strong>Software Engineering</strong>
-</center>
-
-<center>
-<i>Sophomore</i> <br>
-<b>Backend</b> Developer | Systems Engineer
-</center>
-
-<hr>
-
-<center>
-<h2><i>Technologies</i></h2>
-</center>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,postgres,spring,git,linux" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=100&color=72eb10&center=true&vCenter=true&width=500&lines=Developed+using+Linux+Mint">
-</p>
+<br />
 
-<hr>
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | `Java` `Python` `SQL` `HTML/CSS/JS` `Python`|
+| **Backend** | `Spring Boot` `REST APIs` `JPA / Hibernate` |
+| **Database** | `PostgreSQL` |
+| **Tools** | `Git` `Postman` `Linux Mint` |
+| **Learning** | `Spring Security` `System Design` | `Ego Tripping`
 
-<div style="display: flex; gap: 40px; align-items: flex-start;">
+<br />
 
-<div style="flex: 1; min-width: 0;">
 
-## Current Focus
-
-- JavaScript / HTML / CSS
-- NodeJs
-- PostgreSQL
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,nodejs,electron,html,css,postgresql&theme=dark"/>
-</p>
-
-</div>
-
-<div style="flex: 1; min-width: 0;">
-
-<pre>
-⠀⠀⢀⣠⣤⣤⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⢀⡼⠋⠁⣠⣄⡀⠈⢹⡗⢦⣤⠶⠛⢳⡄⠀⠀⠀⠀⠀⠀
-⢸⠁⠀⠘⣧⣨⠇⠀⣸⠁⠀⠈⠳⣄⠀⠹⡆⠀⠀⠀⠀⠀
-⢸⡓⠶⠆⠀⠀⠀⣰⠋⠀⢀⡿⠀⠘⢧⡀⠹⣆⠀⠀⠀⠀
-⠘⣧⣀⣀⣠⡴⠞⠁⠀⠙⠉⠀⠀⡆⠈⢧⠀⢙⡆⠀⠀⠀
-⠀⠘⣏⠁⠀⠀⢀⡿⠀⠀⠀⠒⠚⠁⠀⢸⡟⠋⠀⠀⠀⠀
-⠀⠀⠙⣦⠀⠐⠚⠃⠀⢰⡆⠀⠀⣴⠀⠈⣧⣀⠀⠀⠀⠀
-⠀⠀⠀⠈⠳⢦⣀⠐⠛⠋⠀⠐⠒⠋⠀⢀⡀⠉⠙⠓⢲⡄
-⠀⠀⠀⠀⠀⠀⠉⠓⠶⠤⣤⣤⡀⠀⢤⠈⠙⠓⠀⠀⣠⡇
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⡄⠈⠓⠀⣠⠖⠋⠁⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣧⠀⠀⣰⠏⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠛⠚⠁⠀⠀⠀⠀⠀
-</pre>
-
-</div>
-
-</div>
-
-<hr>
-
-<center><h1 style="color:#72eb10;">Focus</h1></center>
-
-<div style="display: flex; gap: 40px; align-items: flex-start;">
-
-<div style="flex: 1; min-width: 0;">
-
-<pre>
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣾⣷⣄⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣴⣿⣿⣿⣿⣿⣷⣀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⢾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣦⡀⠀⠀⠀⠀
-⠈⣿⣶⣤⡀⠀⠀⠀⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⡀⠀⠀
-⠀⢹⣿⣿⣿⣷⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠀
-⠀⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⢸⣿⣿⣿⡀
-⠀⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃
-⠀⢸⣿⣿⣿⣿⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠋⠀
-⠀⣿⣿⠿⠋⠁⠀⠀⠉⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠁⠀⠀
-⠈⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣿⣿⣿⣿⡿⠿⠟⠋⠉⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⣿⠿⠟⠋⠀⠀⠀⠀
-</pre>
-
-</div>
-
-<div style="flex: 1; min-width: 0;">
-
-<h2>Consistency</h2>
+## 📫 Contact
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kdeand&theme=dark">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kdeand&theme=react-dark">
-</p>
-
-</div>
-
-</div>
-
-<hr>
-
-<center><h1 style="color:#72eb10;">Goals</h1></center>
-
-<div style="display: flex; gap: 40px; align-items: flex-start;">
-
-<div style="flex: 1; min-width: 0;">
-
-## Launch Apps
-
-- <span style="color:#00A6CB">PORTFOLIO</span> - Late July
-- <span style="color:#00A6CB">SOCKET APP</span> - 4 weeks
-- <span style="color:red">[READACTED]</span> - 2 months
-- <span style="color:red">[READACTED]</span> - tomorrow
-
-</div>
-
-<div style="flex: 1; min-width: 0;">
-
-<img src="https://media.tenor.com/nIHzGa4dXJEAAAAi/dm4uz3-foekoe.gif" width="200">
-
-</div>
-
-</div>
-
-<center><i>"Learning by building."</i></center>
-
-<hr>
-
-<p align="center">
-  <a href="https://linkedin.com/in/deannadelacruz">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  <a href="https://www.linkedin.com/in/deannadelacruz/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
-<hr>
+<br />
 
-<center>
-𓆞*.𓆝 ⋆｡𖦹°‧
-</center>
+
