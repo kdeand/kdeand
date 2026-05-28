@@ -1,36 +1,45 @@
-<div align="center">
+<div id="first-row">
 
-# <span style="color:#00A6CB">Dean</span>
+<h1 align="center"><span style="color: #00A6CB">Dean</span></h1>
 
-Backend Engineer | CS Student
+<p align="center">Backend Engineer | ComSci Student</p>
 
-<img src="https://media.tenor.com/wW6w4loOLaUAAAAj/fish.gif" width="200"/>
+<center>
+  <img src="https://media.tenor.com/wW6w4loOLaUAAAAj/fish.gif">
+</center>
 
-<br/>
+<br>
 
-∘˙○˚.•∘˙○˚.•∘˙○˚.•∘˙○˚.•∘˙○˚.•∘˙○˚.•∘˙○˚.•
+<center>
+<span style="color: #00A6CB">
 
-<pre>
+∘˙○˚.•∘˙○˚.•∘˙○˚.•∘˙○˚.•∘˙○˚.•∘˙○˚.•∘˙○˚.• 
+
+<b>
 ><(((º>
-</pre>
+</b>
+
+</span>
+</center>
 
 </div>
 
----
+<hr>
 
-## 🎓 About Me
+<center>
+Bachelor of <strong>Computer Science</strong> | Major in <strong>Software Engineering</strong>
+</center>
 
-<div align="center">
+<center>
+<i>Sophomore</i> <br>
+<b>Backend</b> Developer | Systems Engineer
+</center>
 
-Bachelor of **Computer Science** | Major in **Software Engineering**  
-Sophomore  
-Backend Developer | Systems Engineer  
+<hr>
 
-</div>
-
----
-
-## ⚙️ Technologies
+<center>
+<h2><i>Technologies</i></h2>
+</center>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
@@ -42,59 +51,125 @@ Backend Developer | Systems Engineer
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=100&color=72eb10&center=true&vCenter=true&width=500&lines=Developed+using+Linux+Mint"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=100&color=72eb10&center=true&vCenter=true&width=500&lines=Developed+using+Linux+Mint">
 </p>
 
----
+<hr>
 
-## 📌 Current Focus
+<div style="display: flex; gap: 40px; align-items: flex-start;">
 
-- JavaScript / HTML / CSS  
-- Node.js  
-- PostgreSQL  
+<div style="flex: 1; min-width: 0;">
+
+## Current Focus
+
+- JavaScript / HTML / CSS
+- NodeJs
+- PostgreSQL
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=javascript,nodejs,electron,html,css,postgresql&theme=dark"/>
 </p>
 
----
+</div>
 
-## 📊 Consistency
+<div style="flex: 1; min-width: 0;">
+
+<pre>
+⠀⠀⢀⣠⣤⣤⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⢀⡼⠋⠁⣠⣄⡀⠈⢹⡗⢦⣤⠶⠛⢳⡄⠀⠀⠀⠀⠀⠀
+⢸⠁⠀⠘⣧⣨⠇⠀⣸⠁⠀⠈⠳⣄⠀⠹⡆⠀⠀⠀⠀⠀
+⢸⡓⠶⠆⠀⠀⠀⣰⠋⠀⢀⡿⠀⠘⢧⡀⠹⣆⠀⠀⠀⠀
+⠘⣧⣀⣀⣠⡴⠞⠁⠀⠙⠉⠀⠀⡆⠈⢧⠀⢙⡆⠀⠀⠀
+⠀⠘⣏⠁⠀⠀⢀⡿⠀⠀⠀⠒⠚⠁⠀⢸⡟⠋⠀⠀⠀⠀
+⠀⠀⠙⣦⠀⠐⠚⠃⠀⢰⡆⠀⠀⣴⠀⠈⣧⣀⠀⠀⠀⠀
+⠀⠀⠀⠈⠳⢦⣀⠐⠛⠋⠀⠐⠒⠋⠀⢀⡀⠉⠙⠓⢲⡄
+⠀⠀⠀⠀⠀⠀⠉⠓⠶⠤⣤⣤⡀⠀⢤⠈⠙⠓⠀⠀⣠⡇
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⡄⠈⠓⠀⣠⠖⠋⠁⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣧⠀⠀⣰⠏⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠛⠚⠁⠀⠀⠀⠀⠀
+</pre>
+
+</div>
+
+</div>
+
+<hr>
+
+<center><h1 style="color:#72eb10;">Focus</h1></center>
+
+<div style="display: flex; gap: 40px; align-items: flex-start;">
+
+<div style="flex: 1; min-width: 0;">
+
+<pre>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣾⣷⣄⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣴⣿⣿⣿⣿⣿⣷⣀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣦⡀⠀⠀⠀⠀
+⠈⣿⣶⣤⡀⠀⠀⠀⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⡀⠀⠀
+⠀⢹⣿⣿⣿⣷⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠀
+⠀⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⢸⣿⣿⣿⡀
+⠀⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃
+⠀⢸⣿⣿⣿⣿⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠋⠀
+⠀⣿⣿⠿⠋⠁⠀⠀⠉⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠁⠀⠀
+⠈⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣿⣿⣿⣿⡿⠿⠟⠋⠉⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⣿⠿⠟⠋⠀⠀⠀⠀
+</pre>
+
+</div>
+
+<div style="flex: 1; min-width: 0;">
+
+<h2>Consistency</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kdeand&theme=dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kdeand&theme=dark">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kdeand&theme=react-dark"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kdeand&theme=react-dark">
 </p>
 
----
+</div>
 
-## 🎯 Goals
+</div>
 
-- Portfolio — Late July  
-- Socket App — 4 weeks  
-- (redacted) — 2 months  
-- (redacted) — tomorrow  
+<hr>
 
----
+<center><h1 style="color:#72eb10;">Goals</h1></center>
 
-## 🔗 Socials
+<div style="display: flex; gap: 40px; align-items: flex-start;">
+
+<div style="flex: 1; min-width: 0;">
+
+## Launch Apps
+
+- <span style="color:#00A6CB">PORTFOLIO</span> - Late July
+- <span style="color:#00A6CB">SOCKET APP</span> - 4 weeks
+- <span style="color:red">[READACTED]</span> - 2 months
+- <span style="color:red">[READACTED]</span> - tomorrow
+
+</div>
+
+<div style="flex: 1; min-width: 0;">
+
+<img src="https://media.tenor.com/nIHzGa4dXJEAAAAi/dm4uz3-foekoe.gif" width="200">
+
+</div>
+
+</div>
+
+<center><i>"Learning by building."</i></center>
+
+<hr>
 
 <p align="center">
   <a href="https://linkedin.com/in/deannadelacruz">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://github.com/kdeand">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
 </p>
 
----
+<hr>
 
-## 🐟
-
-<p align="center">
-𓆞 *.𓆝 ⋆｡𖦹°‧
-</p>
+<center>
+𓆞*.𓆝 ⋆｡𖦹°‧
+</center>
