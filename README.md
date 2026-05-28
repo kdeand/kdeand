@@ -1,4 +1,5 @@
 
+<center>
 <div id = "first-row" style="background-image: ">
 <h1 align = center><span style = "color:  #00A6CB"> Dean </h1>
 <p align = center> Backend Engineer | ComSci Student </p>
@@ -14,7 +15,7 @@
 <br>
 
 ∘˙○˚.•∘˙○˚.•∘˙○˚.•∘˙○˚.•∘˙○˚.•∘˙○˚.•∘˙○˚.• 
-
+</center>
 <b>
 <p>
 ><(((º>   
