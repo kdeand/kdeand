@@ -1,79 +1,73 @@
-<div id="first-row" style="background-image: none;">
-<h1 align="center"><span style="color:#00A6CB">Dean</span></h1>
-<p align="center">Backend Engineer | ComSci Student</p>
+<!-- ===================== HEADER ===================== -->
 
-<center>
-<img src="https://media.tenor.com/wW6w4loOLaUAAAAj/fish.gif">
-</center>
+<div align="center">
 
-<p>
+# <span style="color:#00A6CB">Dean</span>
 
-<center>
-<span style="color:#00A6CB">
+**Backend Engineer | ComSci Student**
 
-<br>
+<br/>
 
-∘˙○˚.•∘˙○˚.•∘˙○˚.•∘˙○˚.•∘˙○˚.•∘˙○˚.•∘˙○˚.• 
+<img src="https://media.tenor.com/wW6w4loOLaUAAAAj/fish.gif" width="180"/>
 
-<b>
-<p>
-><(((º>   
-</p>
-</b>
-</center>
-</p>
+<br/>
+
+∘˙○˚.•∘˙○˚.•∘˙○˚.•∘˙○˚.•∘˙○˚.•∘˙○˚.•∘˙○˚.•
+
+<b><(((º></b>
 
 </div>
 
-<hr>
+---
 
-<center>
-Bachelor of <strong>Computer Science</strong> | Major in <strong>Software Engineering</strong>
-</center>
+## 🎓 Profile
 
-<center>
-<i> Sophomore </i> <br>
-<b>Backend</b> Developer | Systems Engineer
-</center>
+<div align="center">
 
-<hr>
+Bachelor of **Computer Science** | Major in **Software Engineering**  
+*Sophomore*  
+**Backend Developer | Systems Engineer**
 
-<center> 
-<h2><i> Technologies </i></h2>
+</div>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
-</p>
+---
+
+##  Technologies
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+
+<br/><br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=100&color=72eb10&center=true&vCenter=true&width=500&lines=Developed+using+Linux+Mint)](https://git.io/typing-svg)
 
-</center>
+</div>
 
-<hr>
+---
 
-<div style="display: flex; gap: 40px; align-items: flex-start;">
+##  Current Focus
 
-<div style="flex: 1; min-width: 0;">
+- JavaScript / HTML / CSS  
+- Node.js  
+- PostgreSQL  
 
-## Current Focus
+<div align="center">
 
-- JavaScript / HTML / CSS
-- NodeJs
-- PostgreSQL
-
-[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,electron,html,css,postgresql&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=javascript,nodejs,electron,html,css,postgresql&theme=dark)](https://skillicons.dev)
 
 </div>
 
-<div style="flex: 1; min-width: 0;">
-<div style="white-space: pre; font-family: monospace; background: transparent; padding: 0; margin: 0;">
-<span style="color:#1ab6da">
-<b>
+---
+
+##  ASCII Zone
+
+### Floating Fish Core
 
 ⠀⠀⢀⣠⣤⣤⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⢀⡼⠋⠁⣠⣄⡀⠈⢹⡗⢦⣤⠶⠛⢳⡄⠀⠀⠀⠀⠀⠀
@@ -86,48 +80,17 @@ Bachelor of <strong>Computer Science</strong> | Major in <strong>Software Engine
 ⠀⠀⠀⠀⠀⠀⠉⠓⠶⠤⣤⣤⡀⠀⢤⠈⠙⠓⠀⠀⣠⡇
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⡄⠈⠓⠀⣠⠖⠋⠁⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣧⠀⠀⣰⠏⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠛⠚⠁⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠛⠚⠁⠀
 
-∘˙○˚.•∘˙○˚.•∘˙○˚.•∘˙○˚.•∘˙○˚.•∘˙○˚.•∘˙○˚.• 
-</b>
-</span>
-</div>
-</div>
+∘˙○˚.•∘˙○˚.•∘˙○˚.•∘˙○˚.•∘˙○˚.•∘˙○˚.•∘˙○˚.•
 
-</div>
+---
 
-<hr>
+##  Focus
 
-<h1 align="center" style="color:#09d6fa;">Focus</h1>
+<div align="center">
 
-<div style="display: flex; gap: 40px; align-items: flex-start;">
-
-<div style="flex: 1; min-width: 0;">
-
-<span style="color:#e07620">
-<b>
-
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣾⣷⣄⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣴⣿⣿⣿⣿⣿⣷⣀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⢾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣦⡀⠀⠀⠀⠀
-⠈⣿⣶⣤⡀⠀⠀⠀⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⡀⠀⠀
-⠀⢹⣿⣿⣿⣷⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠀
-⠀⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⢸⣿⣿⣿⡀
-⠀⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃
-⠀⢸⣿⣿⣿⣿⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠋⠀
-⠀⣿⣿⠿⠋⠁⠀⠀⠉⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠁⠀⠀
-⠈⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣿⣿⣿⣿⡿⠿⠟⠋⠉⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⣿⠿⠟⠋⠀⠀⠀⠀
-
-∘˙○˚.•∘˙○˚.•∘˙○˚.•∘˙○˚.•∘˙○˚.•∘˙○˚.•∘˙○˚.• ∘˙○˚.• ∘˙○˚.• 
-</b>
-</span>
-
-</div>
-
-<div style="flex: 1; min-width: 0;">
-
-## Consistency
+### Consistency
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kdeand&theme=dark)
 
@@ -135,45 +98,47 @@ Bachelor of <strong>Computer Science</strong> | Major in <strong>Software Engine
 
 </div>
 
-</div>
+---
 
-<hr>
+## 🎯 Goals
 
-<h1 align="center" style="color:#72eb10">Goals</h1>
+### Launch Apps
 
-<div style="display: flex; gap: 40px; align-items: flex-start;">
+- <span style="color:#1ab6da">PORTFOLIO</span> — Late July  
+- <span style="color:#1ab6da">SOCKET APP</span> — 4 weeks  
+- <span style="color:red">[REDACTED]</span> — 2 months  
+- <span style="color:red">[REDACTED]</span> — tomorrow  
 
-<div style="flex: 1; min-width: 0;">
+<br/>
 
-## Launch Apps
+<div align="center">
 
-- <span style="color:#1ab6da">PORTFOLIO</span> - Late July
-- <span style="color:#1ab6da">SOCKET APP</span> - 4 weeks
-- <span style="color:red">[READACTED]</span> - 2 months
-- <span style="color:red">[READACTED]</span> - tomorrow
-
-</div>
-
-<div style="flex: 1; min-width: 0;">
-<img src="https://media.tenor.com/nIHzGa4dXJEAAAAi/dm4uz3-foekoe.gif" style="width:200px;">
-</div>
+<img src="https://media.tenor.com/nIHzGa4dXJEAAAAi/dm4uz3-foekoe.gif" width="200"/>
 
 </div>
 
-<center><i>"Learning by building."</i></center>
+---
 
-<hr>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/deannadelacruz">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-  </a>
-</p>
+### *"Learning by building."*
 
-<hr>
+</div>
 
-<center>
-<span style="color:#ffa600">
+---
+
+##  Links
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/deannadelacruz)
+
+</div>
+
+---
+
+<div align="center">
+
 𓆞*.𓆝 ⋆｡𖦹°‧
-</span>
-</center>
+
+</div>
