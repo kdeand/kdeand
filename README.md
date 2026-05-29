@@ -1,4 +1,4 @@
-````md
+
 # Dean
 
 Backend Engineering Student | Computer Science Student
@@ -65,7 +65,7 @@ Currently learning full-stack development, backend systems, databases, and softw
 
 ## Connect
 
-```txt
+
 Email      : your@email.com
 LinkedIn   : linkedin.com/in/yourname
 Portfolio  : coming soon
