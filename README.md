@@ -61,14 +61,7 @@ Currently learning full-stack development, backend systems, databases, and softw
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight" />
 </p>
 
----
 
-## Connect
-
-
-Email      : your@email.com
-LinkedIn   : linkedin.com/in/yourname
-Portfolio  : coming soon
 ```
 
 ```
