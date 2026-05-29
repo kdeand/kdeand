@@ -18,9 +18,8 @@
 
 </div>
 
----
 
-## 🎓 Profile
+##  Profile
 
 <div align="center">
 
@@ -49,7 +48,6 @@ Bachelor of **Computer Science** | Major in **Software Engineering**
 
 </div>
 
----
 
 ##  Current Focus
 
@@ -62,28 +60,6 @@ Bachelor of **Computer Science** | Major in **Software Engineering**
 [![Skills](https://skillicons.dev/icons?i=javascript,nodejs,electron,html,css,postgresql&theme=dark)](https://skillicons.dev)
 
 </div>
-
----
-
-##  ASCII Zone
-
-### Floating Fish Core
-
-⠀⠀⢀⣠⣤⣤⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⢀⡼⠋⠁⣠⣄⡀⠈⢹⡗⢦⣤⠶⠛⢳⡄⠀⠀⠀⠀⠀⠀
-⢸⠁⠀⠘⣧⣨⠇⠀⣸⠁⠀⠈⠳⣄⠀⠹⡆⠀⠀⠀⠀⠀
-⢸⡓⠶⠆⠀⠀⠀⣰⠋⠀⢀⡿⠀⠘⢧⡀⠹⣆⠀⠀⠀⠀
-⠘⣧⣀⣀⣠⡴⠞⠁⠀⠙⠉⠀⠀⡆⠈⢧⠀⢙⡆⠀⠀⠀
-⠀⠘⣏⠁⠀⠀⢀⡿⠀⠀⠀⠒⠚⠁⠀⢸⡟⠋⠀⠀⠀⠀
-⠀⠀⠙⣦⠀⠐⠚⠃⠀⢰⡆⠀⠀⣴⠀⠈⣧⣀⠀⠀⠀⠀
-⠀⠀⠀⠈⠳⢦⣀⠐⠛⠋⠀⠐⠒⠋⠀⢀⡀⠉⠙⠓⢲⡄
-⠀⠀⠀⠀⠀⠀⠉⠓⠶⠤⣤⣤⡀⠀⢤⠈⠙⠓⠀⠀⣠⡇
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⡄⠈⠓⠀⣠⠖⠋⠁⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣧⠀⠀⣰⠏⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠛⠚⠁⠀
-
-∘˙○˚.•∘˙○˚.•∘˙○˚.•∘˙○˚.•∘˙○˚.•∘˙○˚.•∘˙○˚.•
-
 ---
 
 ##  Focus
