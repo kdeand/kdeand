@@ -13,6 +13,7 @@ Currently learning full-stack development, backend systems, databases, and softw
 - Interested in productivity-focused and collaborative platforms
 - Exploring Linux workflows and developer tooling
 - Learning through projects and experimentation
+- Makes apps to my liking
 
 ---
 
