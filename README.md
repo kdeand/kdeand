@@ -1,12 +1,13 @@
 
-<p>
+<p align= "center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00ccff&center=true&vCenter=true&width=600&lines=Dean" alt="Typing SVG" />
 </p>
 
+<p align= "center">
 Backend Engineer | Sophmore CS Student 
 
 Currently learning full-stack development, backend systems, databases, and software engineering fundamentals.
-
+</p>
 ---
 
 ## About Me
