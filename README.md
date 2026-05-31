@@ -20,7 +20,7 @@ Currently learning full-stack development, backend systems, databases, and softw
 ## Tech Stack
 
 ### Languages
-  <img src="https://skillicons.dev/icons?i=js,java,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,java,python,php,html,css" />
 
 ### Frameworks & Tools
 - React
@@ -28,6 +28,8 @@ Currently learning full-stack development, backend systems, databases, and softw
 - Git & GitHub
 - Linux
 - VSCode
+  <img src="https://skillicons.dev/icons?i=react,node,spring,git,github,linux,mint" />
+
 
 ---
 
