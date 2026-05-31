@@ -5,6 +5,8 @@
 
 <p align= "center">
 Backend Engineer | Sophmore CS Student 
+
+</p><p align = "center">
 Currently learning full-stack development, backend systems, databases, and software engineering fundamentals.
 </p>
 
