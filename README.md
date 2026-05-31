@@ -28,7 +28,7 @@ Currently learning full-stack development, backend systems, databases, and softw
 - Git & GitHub
 - Linux
 - VSCode
-  <img src="https://skillicons.dev/icons?i=react,node,spring,git,github,linux,mint" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,spring,git,github,linux,mint" />
 
 
 ---
