@@ -20,9 +20,7 @@ Currently learning full-stack development, backend systems, databases, and softw
 ## Tech Stack
 
 ### Languages
-- JavaScript
-- Java
-- HTML / CSS
+  <img src="https://skillicons.dev/icons?i=js,java,html,css" />
 
 ### Frameworks & Tools
 - React
