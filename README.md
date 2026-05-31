@@ -1,7 +1,7 @@
 
 # Dean
 
-Backend Engineering Student | Computer Science Student
+Backend Engineer | Sophmore CS Student
 
 Currently learning full-stack development, backend systems, databases, and software engineering fundamentals.
 
@@ -21,7 +21,7 @@ Currently learning full-stack development, backend systems, databases, and softw
 
 ### Languages
 - JavaScript
-- PHP
+- Java
 - HTML / CSS
 
 ### Frameworks & Tools
@@ -30,7 +30,6 @@ Currently learning full-stack development, backend systems, databases, and softw
 - Git & GitHub
 - Linux
 - VSCode
-- Figma
 
 ---
 
@@ -58,12 +57,7 @@ Currently learning full-stack development, backend systems, databases, and softw
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kdeand&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdeand&layout=compact&hide_border=true&theme=tokyonight" />
 </p>
 
-
-```
-
-```
-```
