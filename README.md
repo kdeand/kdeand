@@ -1,7 +1,7 @@
 
-# Dean
+# Dean 
 
-Backend Engineer | Sophmore CS Student
+Backend Engineer | Sophmore CS Student 
 
 Currently learning full-stack development, backend systems, databases, and software engineering fundamentals.
 
@@ -23,13 +23,7 @@ Currently learning full-stack development, backend systems, databases, and softw
   <img src="https://skillicons.dev/icons?i=js,java,python,php,html,css" />
 
 ### Frameworks & Tools
-- React
-- Node.js
-- Git & GitHub
-- Linux
-- VSCode
   <img src="https://skillicons.dev/icons?i=react,nodejs,spring,git,github,linux,mint" />
-
 
 ---
 
