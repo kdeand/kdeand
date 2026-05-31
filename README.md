@@ -54,9 +54,8 @@ Currently learning full-stack development, backend systems, databases, and softw
 ---
 
 ## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kdeand&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdeand&layout=compact&hide_border=true&theme=tokyonight" />
-</p>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=kdeand&show_icons=true&theme=tokyonight"
+  height="180"
+/>
 
