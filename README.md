@@ -28,7 +28,7 @@ Currently learning full-stack development, backend systems, databases, and softw
   <img src="https://skillicons.dev/icons?i=js,java,python,php,html,css" />
 
 ### Frameworks & Tools
-  <img src="https://skillicons.dev/icons?i=react,nodejs,spring,git,github,linux,mint" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,spring,git,github,linux,mint, postman" />
 
 ---
 
