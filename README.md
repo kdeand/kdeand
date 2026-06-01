@@ -46,7 +46,6 @@ Currently learning full-stack development, backend systems, databases, and softw
 ```txt
 - Databases
 - Authentication
-- API development
 - System design
 - Deployment
 ````
