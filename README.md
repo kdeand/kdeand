@@ -32,15 +32,6 @@ Currently learning full-stack development, backend systems, databases, and softw
 
 ---
 
-## Current Projects
-
-- Scheduler web application
-- Study room / collaborative workspace platform
-- CRUD-based productivity systems
-- Backend practice projects
-
----
-
 ## Currently Learning
 
 ```txt
