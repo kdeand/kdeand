@@ -4,10 +4,10 @@
 </p>
 
 <p align= "center">
-Backend Engineer | Sophmore CS Student 
+Backend Engineer | Junior CS Student 
 
 </p><p align = "center">
-Currently learning full-stack development, backend systems, databases, and software engineering fundamentals.
+Currently learning backend development, backend systems, databases, and software engineering fundamentals.
 </p>
 
 ---
@@ -42,6 +42,3 @@ Currently learning full-stack development, backend systems, databases, and softw
 ````
 
 ---
-
-## GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=kdeand&theme=dark-minimalist&card_width=476&card_height=100)](https://git.io/streak-stats)
