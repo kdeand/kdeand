@@ -25,7 +25,7 @@ Currently learning backend development, backend systems, databases, and software
 ## Tech Stack
 
 ### Languages
-  <img src="https://skillicons.dev/icons?i=js,java,python,php,html,css" />
+  <img src="https://skillicons.dev/icons?i=ts,java,python,php,html,css" />
 
 ### Frameworks & Tools
   <img src="https://skillicons.dev/icons?i=react,nodejs,spring,git,github,linux,mint,postman" />
