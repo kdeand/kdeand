@@ -31,7 +31,7 @@ Currently learning backend development, backend systems, databases, and software
   <img src="https://skillicons.dev/icons?i=react,nodejs,spring,git,github,linux,mint,postman" />
 
 ---
-[![GitHub Streak](https://demolab.com)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kdeand&theme=gruvbox-duo)](https://git.io/streak-stats)
 
 ---
 
