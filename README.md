@@ -34,10 +34,8 @@ Currently learning backend development, backend systems, databases, and software
 ## Currently Learning
 
 ```txt
-- Databases
-- Authentication
-- System design
-- Deployment
+- Unit Test
+- Swagger Documentation
 ````
 
 ---
