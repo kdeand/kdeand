@@ -15,10 +15,10 @@ Currently learning backend development, backend systems, databases, and software
 ## About Me
 
 - Building web applications and backend systems
-- Interested in productivity-focused and collaborative platforms
+- Trying to do deep work but my adhd sucks
 - Exploring Linux workflows and developer tooling
 - Learning through projects and experimentation
-- Makes apps to my liking
+- Making apps that are scalable and robust
 
 ---
 
@@ -37,6 +37,8 @@ Currently learning backend development, backend systems, databases, and software
 - DevOps Practices
 - Linux
 - System Administration
+- Backend Engineering
+- REST APIs
 ````
 
 ---
