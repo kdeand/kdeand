@@ -41,4 +41,6 @@ Currently learning backend development, backend systems, databases, and software
 - REST APIs
 ````
 
+## Will do my personal website soon, just have to find a flow...
+
 ---
